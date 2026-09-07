@@ -2,7 +2,11 @@ contatos = []
 
 
 def cadastrar_contato():
-    pass
+    nome = input("Nome: ")
+    telefone = input("Telefone: ")
+    email = input("Email: ")
+    contatos.append({"nome": nome, "telefone": telefone, "email": email})
+    print(f"Contato {nome} cadastrado com sucesso.")
 
 def listar_contatos():
     if not contatos:
