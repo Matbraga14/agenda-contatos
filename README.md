@@ -17,8 +17,8 @@ python agenda.py
 
 ## Autores 
 
-- André - @
-- Matheus Guimarães Braga - @
+- André - @andreibmec
+- Matheus Guimarães Braga - @Matbraga14
 
 ## Sobre o projeto
 
